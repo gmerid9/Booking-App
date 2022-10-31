@@ -1,0 +1,23 @@
+.footer {
+    height: 50px;
+    background-color: #003580 ;
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid green; */
+    
+  }
+
+  .footerContainer {
+    width: 100%;
+    max-width: 1024px;
+    /* border: 2px solid black; */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+  }
+
+.copyRight {
+    color:white;
+}
